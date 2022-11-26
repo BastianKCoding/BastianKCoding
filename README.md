@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+ 
+ My Name is Basti. Nice to see you here. 
+ 
+ 
+ 🌱 I’m currently learning Coding at Coding Bootcamp Europe. 
+ 
 <!--
 **BastianKCoding/BastianKCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
